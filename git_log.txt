@@ -1,0 +1,73 @@
+commit 0b70a0e675130279beaf8ce882c15d43b97fcd03
+Merge: 3a6198d d8887c4
+Author: Gauri Chahal <gaurichahal@gmail.com>
+Date:   Wed Feb 5 15:41:10 2025 -0800
+
+    Resolved merge conflict in index.html
+
+commit d8887c45abef39f78036b8456eb8fbd8270ac9a1
+Author: Gauri Chahal <gaurichahal@gmail.com>
+Date:   Wed Feb 5 15:38:03 2025 -0800
+
+    Added favorite game to index.html
+
+commit 3a6198de6e395d5480b0709d3823eff8a85c0491
+Author: Gauri Chahal <gaurichahal@gmail.com>
+Date:   Wed Feb 5 15:37:05 2025 -0800
+
+    Added favorite food to index.html
+
+commit 1baee5db8911b26d94488ef16ac7309864a28c9a
+Author: Gauri Chahal <gaurichahal@gmail.com>
+Date:   Wed Feb 5 15:32:47 2025 -0800
+
+    Added README file
+
+commit 60e3498f9421674959daf273dfc4cd05e857f449
+Merge: 1d2bfc0 39cd0ea
+Author: gaurichahal <gaurichahal@gmail.com>
+Date:   Wed Feb 5 15:30:45 2025 -0800
+
+    Merge pull request #1 from gaurichahal/info-fill
+    
+    Filled in missing details in index.html
+
+commit 39cd0ea62355022f4fb798b4d73a88252829f49c
+Author: Gauri Chahal <gaurichahal@gmail.com>
+Date:   Wed Feb 5 15:11:34 2025 -0800
+
+    Filled in missing details in index.html
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
